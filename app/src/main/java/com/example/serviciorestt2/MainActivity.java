@@ -79,8 +79,6 @@ public class MainActivity extends AppCompatActivity {
                 salida += "Rating => Count :" + objProducto.getRating().getCount()+" \n";
              txtResultado.setText(salida);
 
-
-
             }
        });
 
